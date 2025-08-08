@@ -77,6 +77,11 @@ body>.navbar .brand:hover {
 }
 
 
+div.news {
+                height: 500px;
+                overflow: auto;
+            }
+
 /* Sidenav for Docs
          -------------------------------------------------- */
 
